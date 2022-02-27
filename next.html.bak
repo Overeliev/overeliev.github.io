@@ -5,7 +5,21 @@
 <title>Следующий шаг</title>
 <link rel="shortcut icon" href="3.png" type="image/png">
 <style>body {
-    background: #c7b39b url(1.jpg);
+margin: 0;
+    height: 100%;
+    background: #c7b39b url(1.jpg); 
+	background-size: cover;
+	background-attachment: fixed;
+   }
+	p {
+		border: 5px double red;
+		background: #98ff98;
+		padding: 10px;
+	}
+	h3 {
+		border: 3px solid red;
+		background: #98ff98;
+		padding: 10px;
    }
   </style>
 </head>

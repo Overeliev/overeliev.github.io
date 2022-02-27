@@ -5,11 +5,35 @@
 <title>Новый уровень</title>
 <link rel="shortcut icon" href="3.png" type="image/png">
 <style>body {
-    background: #c7b39b url(1.jpg);
+margin: 0;
+    height: 100%;
+    background: #c7b39b url(1.jpg); 
+	background-size: cover;
+	background-attachment: fixed;
+   }
+	p {
+		border: 5px double red;
+		background: #98ff98;
+		padding: 10px;
+	}
+	h3 {
+		border: 3px solid red;
+		background: #98ff98;
+		padding: 10px;
    }
   </style>
 </head>
 <body>
 <h1 align="center">Поздравляю, вы перешли на следующий сайт.</h1>
+<h3 align="center">Для чего же используют информационные технологии в образовании?</h3>
+<br>
+<p align="center">Основная цель применения информационных технологий </p>
+<p align="center">в образовательном процессе – это, прежде всего, </p>
+<p align="center">усиление интеллектуальных возможностей учащихся в информационном обществе, </p>
+<p align="center">а также индивидуализация и повышение качества обучения </p>
+<p align="center">на всех ступенях образовательной системы.</p>
+<p align="center">•••• − − •−−• ••• −−−••• −••−• −••−• −−− •••− • •−• • •−•• •• • •••− ••••••</p>
+<p align="center"> −−• •• − •••• ••− −••• •••••• •• −−− −••−• •••• −−− •−•</p>
+<p align="center"> −−− ••• •••• •••••• •••• − −− •−•• </p>
 </body>
 </html>
